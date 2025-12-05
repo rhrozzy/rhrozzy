@@ -2,8 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rh_rozzy/)
 
-![Rhuan P GitHub stats](https://github-readme-stats.vercel.app/api?username=rhrozzy&show_icons=true&theme=dracula)
-
 ### Tecnologias que estou aprendendo:
 
 <div style="display: inline_block"><br/>
